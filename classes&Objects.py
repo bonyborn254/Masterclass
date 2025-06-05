@@ -1,4 +1,4 @@
-"""✅ MODULE 2: Basic Class Definitions
+"""Basic Class Definitions
 
 Slides – Key Concepts
 
@@ -40,7 +40,7 @@ circle2 = Circle(10)
 print("Area of Circle 1:", circle1.area())
 print("Area of Circle 2:", circle2.area())
 
-Assignment
+#Assignment
 
 # Create a Book class and show book summary
 class Book:

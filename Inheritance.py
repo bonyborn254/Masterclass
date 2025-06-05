@@ -1,5 +1,5 @@
 
-"""✅ MODULE 4: Inheritance
+"""Inheritance
 
 Slides – Key Concepts
 
@@ -33,7 +33,7 @@ cat = Cat("Whiskers")
 dog.speak()
 cat.speak()
 
-Assignment
+#Assignment
 
 # Create Vehicle -> Car with inheritance
 class Vehicle:

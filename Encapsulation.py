@@ -1,4 +1,4 @@
-"""✅ MODULE 3: Encapsulation
+"""Encapsulation
 
 Slides – Key Concepts
 

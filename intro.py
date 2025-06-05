@@ -1,4 +1,4 @@
-"""✅ MODULE 1: Introduction to OOP
+"""Introduction to OOP
 
 Slides – Key Concepts
 
@@ -30,7 +30,7 @@ add_student("Alice", 20)
 add_student("Bob", 22)
 show_students()
 
-OOP Style
+#OOP Style
 
 class Student:
     def __init__(self, name, age):
@@ -46,7 +46,7 @@ student2 = Student("Bob", 22)
 student1.show()
 student2.show()
 
-Assignment
+#Assignment
 
 # a) Create a Car class with attributes: make, model, year
 # b) Instantiate 3 Car objects and print their details

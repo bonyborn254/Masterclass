@@ -1,4 +1,4 @@
-"""✅ MODULE 5: Polymorphism
+"""Polymorphism
 
 Slides – Key Concepts
 
