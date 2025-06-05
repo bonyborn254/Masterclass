@@ -1,8 +1,11 @@
 """Introduction to OOP
 
-Slides – Key Concepts
-
 What is OOP?
+In python is a programming paradigm based on the concept of Object.
+These Objects are instances of classes.They act as a blueprint of data(attributes)
+and behavior(methods) that the objects will have.
+
+Slides – Key Concepts
 
 OOP vs Procedural Programming
 
@@ -14,8 +17,7 @@ Visual: Diagram comparing Procedural vs OOP styles"""
 
 
 #Code Demonstration
-
-#Procedural Style
+#Managing students data procedurally
 
 students = []
 
@@ -30,7 +32,7 @@ add_student("Alice", 20)
 add_student("Bob", 22)
 show_students()
 
-#OOP Style
+#managing students data using OOP
 
 class Student:
     def __init__(self, name, age):
@@ -46,7 +48,7 @@ student2 = Student("Bob", 22)
 student1.show()
 student2.show()
 
-#Assignment
+#Extra task
 
 # a) Create a Car class with attributes: make, model, year
 # b) Instantiate 3 Car objects and print their details

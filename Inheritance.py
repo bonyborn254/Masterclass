@@ -33,7 +33,8 @@ cat = Cat("Whiskers")
 dog.speak()
 cat.speak()
 
-#Assignment
+#Extra task
+
 
 # Create Vehicle -> Car with inheritance
 class Vehicle:

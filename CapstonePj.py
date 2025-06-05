@@ -54,7 +54,8 @@ t = Teacher("Mr. John", "john@email.com", "Science")
 show_profile(s)
 show_profile(t)
 
-#Assignment
+#Extra task
+
 
 # Extend the system:
 # 1. Add Admin class who can add/remove students or teachers
